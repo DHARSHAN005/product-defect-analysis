@@ -1,0 +1,2 @@
+0 def_front
+1 ok_front
